@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/hobba/static/css/main.edbcb7e0.chunk.css",
+    "main.js": "/hobba/static/js/main.992de0eb.chunk.js",
+    "main.js.map": "/hobba/static/js/main.992de0eb.chunk.js.map",
+    "runtime-main.js": "/hobba/static/js/runtime-main.53026bbb.js",
+    "runtime-main.js.map": "/hobba/static/js/runtime-main.53026bbb.js.map",
+    "static/js/2.397f609a.chunk.js": "/hobba/static/js/2.397f609a.chunk.js",
+    "static/js/2.397f609a.chunk.js.map": "/hobba/static/js/2.397f609a.chunk.js.map",
+    "index.html": "/hobba/index.html",
+    "static/css/main.edbcb7e0.chunk.css.map": "/hobba/static/css/main.edbcb7e0.chunk.css.map",
+    "static/js/2.397f609a.chunk.js.LICENSE.txt": "/hobba/static/js/2.397f609a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.53026bbb.js",
+    "static/js/2.397f609a.chunk.js",
+    "static/css/main.edbcb7e0.chunk.css",
+    "static/js/main.992de0eb.chunk.js"
+  ]
+}
